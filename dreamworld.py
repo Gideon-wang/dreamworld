@@ -1,5 +1,5 @@
 height=int(input("enter your height(cm):"))
-age=input("enter your age:")
+age=int(input("enter your age:"))
 if height>150:
     print("Stratosfer,Family Karts,Scorpion Karts")
 elif height>120 and height<150:    
