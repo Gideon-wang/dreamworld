@@ -1,4 +1,4 @@
-print("hello world")height=int(input("enter your height(cm):"))
+height=int(input("enter your height(cm):"))
 age=input("enter your age:")
 if height>150:
     print("Stratosfer,Family Karts,Scorpion Karts")
